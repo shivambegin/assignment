@@ -20,7 +20,7 @@ int main()
     {  
         printf (" You have selected: Subtraction");  
      }  
-        else if (opt == '+')  
+    else if (opt == '+')  
     {  
         printf (" You have selected: Addition");  
      }     
